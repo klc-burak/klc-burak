@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Burak and I'm a computer engineer from Turkey.</p>
+<p align="left">My name is Burak and I'm a computer engineer from Türkiye.</p>
 
 ###
 
