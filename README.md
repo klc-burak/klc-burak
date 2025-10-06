@@ -30,6 +30,6 @@
 
 ###
 
-<p align="left">You can explore my repositories below, which include academic research projects and ongoing backend development projects and studies focusing on Java, Spring Boot, and Cloud-based solutions.</p>
+<p align="left">You can explore my repositories below, which include academic research projects as well as ongoing backend development projects and studies focusing on Java, Spring Boot, and Cloud-based solutions.</p>
 
 ###
