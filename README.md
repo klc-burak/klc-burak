@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">Proficient in Java, Spring Boot, Cloud (AWS/Azure), PostgreSQL, and Docker for scalable backend development.</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="30" />
