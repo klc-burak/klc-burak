@@ -25,3 +25,5 @@
 </div>
 
 ###
+
+<p align="left"> You can explore my repositories below, which include academic research studies and ongoing backend development projects focusing on Java, Spring Boot, and Cloud-based solutions.
