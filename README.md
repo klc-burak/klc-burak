@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Computer Engineer focused on backend development and systems programming, building scalable and high-performance applications.<br><br>My core stack includes C, C++, C#, Java, and Python. I develop backend services using Spring Boot, RESTful APIs, PostgreSQL, and Docker, with a focus on clean architecture and efficient system design.<br><br>I also have experience in embedded systems (ESP32-based projects) and AI applications, but my primary focus is backend engineering and performance-oriented software development.</p>
+<p align="left">I am a Computer Engineer focused on backend development and systems programming, building scalable, high-performance applications with a strong emphasis on clean code, performance, and maintainability.<br><br>My core stack includes C, C++, C#, Java, and Python. I develop backend services using Spring Boot, RESTful APIs, PostgreSQL, and Docker, focusing on clean architecture and efficient system design. I am also comfortable rapidly prototyping solutions using AI tools.<br><br>In addition, I have experience in embedded systems, particularly ESP32-based projects, as well as artificial intelligence applications. Through these experiences, I have developed strong problem-solving skills and a solid understanding of system-level thinking, although my primary focus remains backend engineering and performance-oriented software development.<br><br>I am proactive, analytical, and continuously improving my technical skills to build reliable and efficient systems. I value teamwork, cross-disciplinary collaboration, and delivering high-quality results in every project I undertake.</p>
 
 ###
 
